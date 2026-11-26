@@ -1,0 +1,6 @@
+{
+  "name": "FMGE Prep",
+  "description": "Full-stack Foreign Medical Graduate Examination (FMGE) MCQ practice, timed mock tests, deep clinical explanations, and 10,000+ question bank seeding platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
